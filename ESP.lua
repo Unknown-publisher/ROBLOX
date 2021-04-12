@@ -4,7 +4,7 @@ local player = game:GetService("Players").LocalPlayer
 local camera = workspace.CurrentCamera
 
 --// Settings:
-local on = true -- Use this if your making gui
+local on = false -- Use this if your making gui
 
 local Box_Color = Color3.fromRGB(255, 0, 0)
 local Box_Thickness = 2
